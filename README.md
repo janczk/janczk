@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @janczk
-- 👀 I’m interested in iOS developmenr
+- 👀 I’m interested in iOS development
 - 🌱 I’m currently learning swift in xcode
 - 📫 How to reach me jankucerik@me.com
 
